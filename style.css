@@ -1,0 +1,19 @@
+.barra-sup {
+    background-color: rgba(21, 82, 99, 0.7);
+}
+
+.navbar-brand {
+    font-size: 1.75rem;
+}
+
+#relleno {
+    background-color: white;
+    margin-top: 44px;
+}
+.recuadro {
+    border: 1px none white;
+}
+
+.naranja {
+    background-color: #FF6F3C;
+}
